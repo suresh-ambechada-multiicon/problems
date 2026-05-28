@@ -10,7 +10,7 @@ int main(void) {
   // I'm thinking of many different ways to solve this
   // 1. first get n then loop and ask user for number values in loop we directly
   // compute the min,max and sum
-  // 2. difficult we get user input as coma , seperating values one direct input
+  // TODO: 2. difficult we get user input as coma , seperating values one direct input
   // then we try to parse string and get numbers directly computing score from
   // string no array needed.
 
